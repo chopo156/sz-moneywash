@@ -1,3 +1,5 @@
 # sz-moneywash
-A simple moneywash script for fivem
-Portuguese script!
+Moneywash script fort fivem
+
+Put this on server.cfg
+`start sz-moneywash`
